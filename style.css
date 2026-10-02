@@ -75,7 +75,7 @@ h2::after {
     margin: 30px auto;
     padding: 25px;
     background-color: #ffe4c4;
-    background-image: url("images/welcome.jpg");
+    background-image: url("welcome.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: 100% 100%;
